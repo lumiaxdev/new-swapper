@@ -1,3 +1,8 @@
+> **Fork-Hinweis:** Dieses Repository ist ein Fork von [bitsfdb/VelocityRL](https://github.com/bitsfdb/VelocityRL).
+> Die folgende README stammt aus dem Ursprungsprojekt; Release-, Support- und Kontaktangaben beziehen sich auf dieses Projekt.
+
+---
+
 # VelocityRL
 
 The all-in-one customization app for Rocket League. Swap items, show off ranks, play community maps, track your matches — all client-side, all in one clean app.
